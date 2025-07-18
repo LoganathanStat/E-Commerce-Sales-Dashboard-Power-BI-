@@ -16,7 +16,7 @@ This Power BI dashboard provides insightful analysis of E-Commerce sales data, i
 - Interactive slicers (Date, Category, Customer Type)
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](images/ecommerce1.png)
+![Dashboard Screenshot](ecommerce1.png)
 
 ## 🔗 Power BI Report Link
 [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/77a2985c-bd0c-4847-bc0c-cdff5644345c/58439bc4550856960159?experience=power-bi)
